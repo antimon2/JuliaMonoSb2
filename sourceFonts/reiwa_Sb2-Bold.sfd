@@ -1,0 +1,135 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, ,,,
+UComments: "2021-4-8: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -200
+UnderlineWidth: 100
+Ascent: 1600
+Descent: 400
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 723 -1482884990 13272480]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1617868881
+ModificationTime: 1617868900
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 32 8
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 1
+
+StartChar: uni0000
+Encoding: 0 0 0
+Width: 2400
+VWidth: 1694
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1021 1021 m 5,0,-1
+ 1021 888 l 5,1,-1
+ 498.5 888 l 5,2,-1
+ 498.5 1021 l 5,3,4
+ 429.5 948 429.5 948 355.5 883 c 5,5,-1
+ 312 1081 l 5,6,7
+ 515 1269 515 1269 681.5 1529 c 5,8,-1
+ 838 1529 l 5,9,10
+ 1003.5 1270 1003.5 1270 1207.5 1081 c 5,11,-1
+ 1164 883 l 5,12,13
+ 1090 948 1090 948 1021 1021 c 5,0,-1
+956.5 1094 m 5,14,15
+ 852.5 1216 852.5 1216 759.5 1363 c 5,16,17
+ 667 1216 667 1216 563 1094 c 5,18,-1
+ 956.5 1094 l 5,14,15
+365.5 726 m 5,19,-1
+ 1142 726 l 5,20,-1
+ 1142 264 l 6,21,22
+ 1142 187 1142 187 1141 142.5 c 132,-1,23
+ 1140 98 1140 98 1134.5 60 c 132,-1,24
+ 1129 22 1129 22 1121.25 5.5 c 132,-1,25
+ 1113.5 -11 1113.5 -11 1096.75 -23 c 132,-1,26
+ 1080 -35 1080 -35 1061 -38.5 c 132,-1,27
+ 1042 -42 1042 -42 1009 -42 c 4,28,29
+ 971 -42 971 -42 873.5 -31 c 5,30,-1
+ 864.5 180 l 5,31,32
+ 951 171 951 171 985.5 171 c 4,33,34
+ 1012.5 171 1012.5 171 1016.75 181 c 132,-1,35
+ 1021 191 1021 191 1021 257 c 6,36,-1
+ 1021 517 l 5,37,-1
+ 770.5 517 l 5,38,-1
+ 770.5 -173 l 5,39,-1
+ 643 -173 l 5,40,-1
+ 643 517 l 5,41,-1
+ 365.5 517 l 5,42,-1
+ 365.5 726 l 5,19,-1
+1952.5 177 m 5,0,-1
+ 1952.5 1208 l 5,1,-1
+ 1783.5 1208 l 5,2,-1
+ 1783.5 177 l 5,3,-1
+ 1952.5 177 l 5,0,-1
+1635 997 m 5,4,-1
+ 1635 792 l 5,5,-1
+ 1519.5 792 l 5,6,7
+ 1567 644 1567 644 1665 333 c 5,8,-1
+ 1665 1420 l 5,9,-1
+ 2073.5 1420 l 5,10,-1
+ 2073.5 -135 l 5,11,-1
+ 1952.5 -135 l 5,12,-1
+ 1952.5 -27 l 5,13,-1
+ 1783.5 -27 l 5,14,-1
+ 1783.5 -135 l 5,15,-1
+ 1665 -135 l 5,16,-1
+ 1665 300 l 5,17,-1
+ 1587.5 178 l 5,18,19
+ 1541.5 366 1541.5 366 1491 555 c 5,20,-1
+ 1491 -173 l 5,21,-1
+ 1376.5 -173 l 5,22,-1
+ 1376.5 411 l 5,23,24
+ 1334.5 198 1334.5 198 1270 44 c 5,25,-1
+ 1205.5 249 l 5,26,27
+ 1314 508 1314 508 1356.5 792 c 5,28,-1
+ 1225.5 792 l 5,29,-1
+ 1225.5 997 l 5,30,-1
+ 1376.5 997 l 5,31,-1
+ 1376.5 1245 l 5,32,33
+ 1305.5 1230 1305.5 1230 1244.5 1225 c 5,34,-1
+ 1234.5 1416 l 5,35,36
+ 1419.5 1436 1419.5 1436 1603 1523 c 5,37,-1
+ 1634 1336 l 5,38,39
+ 1563 1296 1563 1296 1491 1274 c 5,40,-1
+ 1491 997 l 5,41,-1
+ 1635 997 l 5,4,-1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
